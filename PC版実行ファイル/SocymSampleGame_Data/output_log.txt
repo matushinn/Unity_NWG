@@ -1,0 +1,141 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2147 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\githubRepo\SocymSampleGameUpload\PC版実行ファイル\SocymSampleGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\githubRepo\SocymSampleGameUpload\PC版実行ファイル\SocymSampleGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\githubRepo\SocymSampleGameUpload\PC版実行ファイル\SocymSampleGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\githubRepo\SocymSampleGameUpload\PC版実行ファイル\SocymSampleGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\githubRepo\SocymSampleGameUpload\PC版実行ファイル\SocymSampleGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\githubRepo\SocymSampleGameUpload\PC版実行ファイル\SocymSampleGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\githubRepo\SocymSampleGameUpload\PC版実行ファイル\SocymSampleGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\githubRepo\SocymSampleGameUpload\PC版実行ファイル\SocymSampleGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\githubRepo\SocymSampleGameUpload\PC版実行ファイル\SocymSampleGame_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading C:\githubRepo\SocymSampleGameUpload\PC版実行ファイル\SocymSampleGame_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\githubRepo\SocymSampleGameUpload\PC版実行ファイル\SocymSampleGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\githubRepo\SocymSampleGameUpload\PC版実行ファイル\SocymSampleGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.221526 ms
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.242407 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 959.
+Total: 0.815953 ms (FindLiveObjects: 0.070607 ms CreateObjectMapping: 0.041156 ms MarkObjects: 0.690596 ms  DeleteObjects: 0.012460 ms)
+
+Platform assembly: C:\githubRepo\SocymSampleGameUpload\PC版実行ファイル\SocymSampleGame_Data\Managed\Mono.Security.dll (this message is harmless)
+Fallback handler could not load library C:/githubRepo/SocymSampleGameUpload/PC版実行ファイル/SocymSampleGame_Data/Mono/.\/System/Library/Frameworks/Security.framework/Security
+Fallback handler could not load library C:/githubRepo/SocymSampleGameUpload/PC版実行ファイル/SocymSampleGame_Data/Mono/lib/System/Library/Frameworks/Security.framework/Security
+Fallback handler could not load library C:/githubRepo/SocymSampleGameUpload/PC版実行ファイル/SocymSampleGame_Data/Mono/.\lib/System/Library/Frameworks/Security.framework/Security
+Fallback handler could not load library C:/githubRepo/SocymSampleGameUpload/PC版実行ファイル/SocymSampleGame_Data/Mono/lib/System/Library/Frameworks/Security.framework/Security
+Fallback handler could not load library C:/githubRepo/SocymSampleGameUpload/PC版実行ファイル/SocymSampleGame_Data/Mono/.\/System/Library/Frameworks/Security.framework/Security
+Fallback handler could not load library C:/githubRepo/SocymSampleGameUpload/PC版実行ファイル/SocymSampleGame_Data/Mono/lib/System/Library/Frameworks/Security.framework/Security
+Fallback handler could not load library C:/githubRepo/SocymSampleGameUpload/PC版実行ファイル/SocymSampleGame_Data/Mono/.\lib/System/Library/Frameworks/Security.framework/Security
+Fallback handler could not load library C:/githubRepo/SocymSampleGameUpload/PC版実行ファイル/SocymSampleGame_Data/Mono/lib/System/Library/Frameworks/Security.framework/Security
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.766376 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1975.
+Total: 1.808993 ms (FindLiveObjects: 0.408165 ms CreateObjectMapping: 0.042666 ms MarkObjects: 1.335128 ms  DeleteObjects: 0.022277 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.391110 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2956.
+Total: 1.353252 ms (FindLiveObjects: 0.289605 ms CreateObjectMapping: 0.055882 ms MarkObjects: 0.958679 ms  DeleteObjects: 0.048330 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.509029 ms
+
+Unloading 109 unused Assets to reduce memory usage. Loaded Objects now: 2017.
+Total: 1.868273 ms (FindLiveObjects: 0.149144 ms CreateObjectMapping: 0.040778 ms MarkObjects: 1.492202 ms  DeleteObjects: 0.185392 ms)
+
+PlayerInfoList　10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInfoList　10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.504876 ms
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 1033.
+Total: 1.842975 ms (FindLiveObjects: 0.097416 ms CreateObjectMapping: 0.030206 ms MarkObjects: 1.550350 ms  DeleteObjects: 0.164248 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.288308 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2030.
+Total: 2.779755 ms (FindLiveObjects: 0.624897 ms CreateObjectMapping: 0.053239 ms MarkObjects: 2.079719 ms  DeleteObjects: 0.021144 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.261927 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1033.
+Total: 1.947188 ms (FindLiveObjects: 0.124979 ms CreateObjectMapping: 0.027563 ms MarkObjects: 1.646255 ms  DeleteObjects: 0.146879 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.129496 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2030.
+Total: 2.962882 ms (FindLiveObjects: 0.562596 ms CreateObjectMapping: 0.059280 ms MarkObjects: 2.315708 ms  DeleteObjects: 0.022654 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.327840 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1033.
+Total: 2.245855 ms (FindLiveObjects: 0.183504 ms CreateObjectMapping: 0.049085 ms MarkObjects: 1.851660 ms  DeleteObjects: 0.160472 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.354598 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2030.
+Total: 4.315380 ms (FindLiveObjects: 0.557310 ms CreateObjectMapping: 0.062678 ms MarkObjects: 3.666317 ms  DeleteObjects: 0.027941 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.512641 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1033.
+Total: 2.011754 ms (FindLiveObjects: 0.113274 ms CreateObjectMapping: 0.033604 ms MarkObjects: 1.733099 ms  DeleteObjects: 0.130265 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.840332 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2030.
+Total: 2.780511 ms (FindLiveObjects: 0.433086 ms CreateObjectMapping: 0.052106 ms MarkObjects: 2.272286 ms  DeleteObjects: 0.022277 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.901173 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1033.
+Total: 2.327035 ms (FindLiveObjects: 0.203516 ms CreateObjectMapping: 0.076649 ms MarkObjects: 1.869784 ms  DeleteObjects: 0.175953 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.448616 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2030.
+Total: 2.619283 ms (FindLiveObjects: 0.404767 ms CreateObjectMapping: 0.049840 ms MarkObjects: 2.143530 ms  DeleteObjects: 0.020389 ms)
+
+rarelityStr NN
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.854566 ms
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1033.
+Total: 2.755590 ms (FindLiveObjects: 0.208802 ms CreateObjectMapping: 0.059280 ms MarkObjects: 2.306268 ms  DeleteObjects: 0.180106 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 7808 -> priority: 1 
+  Thread -> id: 7fdc -> priority: 1 
